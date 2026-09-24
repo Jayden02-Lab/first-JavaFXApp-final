@@ -25,7 +25,7 @@ public class HelloJavaFX extends Application {
 
         VBox layout = new VBox(20);
         layout.setAlignment(Pos.CENTER);
-        layout.getChildren().addAll(message, button);
+        layout.getChildren().addAll(message, button);git
 
         Scene scene = new Scene(layout, 500, 300);
 
